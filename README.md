@@ -5,7 +5,7 @@ I'm an avid fan of the game Civ2. As computers keep getting upgraded, it's becom
 
 Currently, this tool only supports the combination of the up, down, left, and right keys corresponding to the four keys Numpad7, Numpad9, Numpad1, and Numpad3. In Civilization 2, these keys are used for diagonal movement. To avoid interfering with the original functions of the up, down, left, and right keys, a time threshold for simultaneous key - presses has been set in the software: DWORD g_KeyInterval; Its default value is 100ms. That is to say, two keys pressed within 100ms will be regarded as a combined key, and if the time exceeds this limit, they will be regarded as two independent key - press events.
 
-![Working for CIV2](snapshot2.png)
+![Working for CIV2](snapshot2.jpg)
 
 I tried it out, and it performed perfectly. 
 
