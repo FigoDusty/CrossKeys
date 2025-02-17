@@ -1,0 +1,22 @@
+#include "CrossKeys.h"
+
+//IDI_ICON1 ICON "res/ck_main.ico"
+//IDI_ICON_UL ICON "res/ck_ul.ico"
+//IDI_ICON_UR ICON "res/ck_ur.ico"
+//IDI_ICON_DL ICON "res/ck_dl.ico"
+//IDI_ICON_DR ICON "res/ck_dr.ico"
+//IDI_ICON_IDLE ICON "res/ck_idle.ico"
+
+//IDI_ICON1 ICON "res/cross48.ico"
+//IDI_ICON_UL ICON "res/ul16.ico"
+//IDI_ICON_UR ICON "res/ur16.ico"
+//IDI_ICON_DL ICON "res/dl16.ico"
+//IDI_ICON_DR ICON "res/dr16.ico"
+//IDI_ICON_IDLE ICON "res/idle16.ico"
+
+IDI_ICON1 ICON "res/cross48.ico"
+IDI_ICON_UL ICON "res/ul32r.ico"
+IDI_ICON_UR ICON "res/ur32r.ico"
+IDI_ICON_DL ICON "res/dl32r.ico"
+IDI_ICON_DR ICON "res/dr32r.ico"
+IDI_ICON_IDLE ICON "res/cross48.ico"
